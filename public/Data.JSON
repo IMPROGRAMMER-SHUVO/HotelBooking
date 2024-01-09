@@ -1,0 +1,139 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "Name": "YOTEL Amsterdam",
+        "Place": "Amsterdam Noord, Amsterdam",
+        "Type": "Premium Double Room",
+        "Price": "₹ 15,267",
+        "Rating": 8.1,
+        "Description": "YOTEL Amsterdam offers a luxurious experience with its Premium Double Room. Enjoy modern amenities and a stunning view of Amsterdam Noord.",
+        "CustomerFeedback": "Fantastic stay at YOTEL! The room was comfortable, and the service was excellent. Will definitely come back.",
+        "image_url": "../src/Images/Dubleroom.jpg"
+      },
+      {
+        "id": 2,
+        "Name": "Multatuli Hotel",
+        "Place": "Amsterdam City Center, Amsterdam",
+        "Type": "Double Room",
+        "Price": "₹ 13,063",
+        "Rating": 7.4,
+        "Description": "Multatuli Hotel, located in the heart of Amsterdam City Center, provides a comfortable Double Room for a pleasant stay.",
+        "CustomerFeedback": "Great location and friendly staff at Multatuli Hotel. The Double Room was clean and cozy. Highly recommended!",
+        "image_url": "../src/Images/download (3).jpg"
+      },
+      {
+        "id": 3,
+        "Name": "nhow Amsterdam Rai",
+        "Place": "Zuideramstel, Amsterdam",
+        "Type": "nhow Double or Twin Room with View",
+        "Price": "₹ 12,854",
+        "Rating": 9,
+        "Description": "Experience breathtaking views from nhow Amsterdam Rai's Double or Twin Room with View. A perfect blend of comfort and style.",
+        "CustomerFeedback": "The view from our room was amazing! nhow Amsterdam Rai exceeded our expectations. Will definitely return!",
+        "image_url": "../src/Images/nhow Double or Twin Room with View.jpg"
+      },
+   
+    
+  {
+        "id": 4,
+        "Name": "Motel One Amsterdam",
+        "Place": "Zuideramstel, Amsterdam",
+        "Type": "Double Room",
+        "Price": "₹ 9,471",
+        "Rating": 8.8,
+        "Description": "Motel One Amsterdam offers a cozy Double Room in the charming area of Zuideramstel. Perfect for a relaxing stay.",
+        "CustomerFeedback": "Had a wonderful time at Motel One! The staff was friendly, and the Double Room was comfortable. Would stay again!",
+        "image_url": "../src/Images/Duble3.jpg"
+      },
+      {
+        "id": 5,
+        "Name": "INNSiDE by Meliá Amsterdam",
+        "Place": "Zuideramstel, Amsterdam",
+        "Type": "The Innside Guestroom",
+        "Price": "₹ 14,123",
+        "Rating": 8.4,
+        "Description": "Indulge in luxury at INNSiDE by Meliá Amsterdam. The Innside Guestroom offers a stylish and sophisticated accommodation.",
+        "CustomerFeedback": "Impressive stay at INNSiDE! The Innside Guestroom was elegant, and the service was top-notch. Highly recommended!",
+        "image_url": "../src/Images/The Innside Guestroom.jpg"
+      },
+      {
+        "id": 6,
+        "Name": "Eden Hotel Amsterdam",
+        "Place": "Amsterdam City Center, Amsterdam",
+        "Type": "Small Double Room",
+        "Price": "₹ 20,060",
+        "Rating": 8.3,
+        "Description": "Discover comfort in the heart of Amsterdam City Center at Eden Hotel. The Small Double Room offers a cozy retreat.",
+        "CustomerFeedback": "Eden Hotel exceeded expectations! The Small Double Room was charming, and the location was perfect. Will come back!",
+        "image_url": "../src/Images/Small Double Room.jpg"
+      },
+      {
+        "id": 7,
+        "Name": "citizenM Amsterdam South",
+        "Place": "Zuideramstel, Amsterdam",
+        "Type": "King Room",
+        "Price": "₹ 14,206",
+        "Rating": 8.8,
+        "Description": "Experience modern luxury at citizenM Amsterdam South. The King Room offers a spacious and stylish accommodation.",
+        "CustomerFeedback": "Amazing stay at citizenM! The King Room was fantastic, and the amenities were impressive. Will definitely return!",
+        "image_url": "../src/Images/King.jpg"
+      },
+      {
+        "id": 8,
+        "Name": "The Alfred Hotel",
+        "Place": "Oud Zuid, Amsterdam",
+        "Type": "Standard Double Room",
+        "Price": "₹ 12,655",
+        "Rating": 7.3,
+        "Description": "The Alfred Hotel, situated in Oud Zuid, provides a comfortable and affordable Standard Double Room for a pleasant stay.",
+        "CustomerFeedback": "Enjoyed my time at The Alfred Hotel! The Standard Double Room was clean and cozy. Good value for money.",
+        "image_url": "../src/Images/Standard Double Room.jpg"
+      },
+      {
+        "id": 9,
+        "Name": "Andaz Amsterdam Prinsengracht - a concept by Hyatt",
+        "Place": "Amsterdam City Center, Amsterdam",
+        "Type": "Observatory King",
+        "Price": "₹ 45,038",
+        "Rating": 8.9,
+        "Description": "Indulge in luxury at Andaz Amsterdam Prinsengracht. The Observatory King room offers unparalleled views and opulent comfort.",
+        "CustomerFeedback": "Andaz Amsterdam is a gem! The Observatory King room and the views were extraordinary. An unforgettable experience!",
+        "image_url": "../src/Images/The Innside Guestroom.jpg"
+      },
+      {
+        "id": 10,
+        "Name": "Hyatt Regency Amsterdam",
+        "Place": "Amsterdam City Center, Amsterdam",
+        "Type": "Twin Room",
+        "Price": "₹ 31,228",
+        "Rating": 8.5,
+        "Description": "Experience luxury and comfort at Hyatt Regency Amsterdam. The Twin Room provides a stylish and relaxing retreat.",
+        "CustomerFeedback": "Hyatt Regency exceeded expectations! The Twin Room was spacious, and the service was impeccable. Would stay again!",
+        "image_url": "../src/Images/Queen Room - Disability Access.jpg"
+      },
+      {
+        "id": 11,
+        "Name": "NH Collection Amsterdam Flower Market",
+        "Place": "Amsterdam City Center, Amsterdam",
+        "Type": "Superior Double or Twin Room",
+        "Price": "₹ 29,391",
+        "Rating": 8.6,
+        "Description": "NH Collection Amsterdam Flower Market offers a Superior Double or Twin Room for a luxurious and memorable stay in the city center.",
+        "CustomerFeedback": "NH Collection is fantastic! The Superior Room was elegant, and the location was perfect. Will recommend to friends!",
+        "image_url": "../src/Images/Superior Double or Twin Room.jpg"
+      },
+      {
+        "id": 12,
+        "Name": "ibis Styles Amsterdam Central Station",
+        "Place": "Amsterdam City Center, Amsterdam",
+        "Type": "Small Double Room",
+        "Price": "₹ 17,798",
+        "Rating": 7.9,
+        "Description": "Enjoy a cozy stay at ibis Styles Amsterdam Central Station. The Small Double Room offers comfort and convenience.",
+        "CustomerFeedback": "Great experience at ibis Styles! The Small Double Room was charming, and the staff was friendly. Would stay again!",
+        "image_url": "../src/Images/Small Double Room.jpg"
+      }
+    
+    ]
+  }
